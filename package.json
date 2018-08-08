@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "browserstack-local": "^1.0.0",
+    "browserstack-protractor-reporter": "file:/Users/mohit/Desktop/code/browserstack-protractor-reporter",
     "protractor": "^5.3.2"
   },
   "license": "MIT"
