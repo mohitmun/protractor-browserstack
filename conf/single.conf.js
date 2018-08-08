@@ -9,5 +9,8 @@ exports.config = {
     'browserName': 'chrome',
     'resolution': '1024x768',
     'browserstack.debug': 'true'
-  }
+  },
+  'plugins': [{
+    'package': "browserstack-protractor-reporter"
+  }]
 };
