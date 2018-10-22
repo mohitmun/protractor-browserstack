@@ -18,6 +18,9 @@ exports.config = {
     'browserName': 'Firefox'
   },{
     'browserName': 'IE'
+  }],
+  'plugins': [{
+    'package': "browserstack-protractor-reporter"
   }]
 };
 
